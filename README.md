@@ -1,5 +1,6 @@
 # About the Project
 ⭐️ Philly Codefest 2023 Hackathon: Comcast Customer Journey Optimization Winner
+
 Built by Amin & Amadin Ahmed
 
 We created an AI Model to predict whether a customer will churn or not based on a telecom company’s demographic data.
